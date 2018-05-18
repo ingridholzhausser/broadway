@@ -18,21 +18,24 @@ h1 {
 }
 
 h2 {
-  font-family: "Helvetica", sans-serif;
   font-size: 32px;
   font-weight: bold;
 }
 
 h3 {
-  font-family: "Helvetica", sans-serif;
   font-size: 23px;
   font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
 
 h1,
 h2,
 h3,
 p {
+  font-family: "Helvetica", sans-serif;
   text-align: center;
 }
 
