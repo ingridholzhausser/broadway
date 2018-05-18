@@ -1,9 +1,7 @@
 h1 {
-  font-family: "Helvetica", sans-serif;
   font-size: 70px;
   font-weight: bold;
   color: #ffffff;
-  text-align: center;
 }
 
 .nav a {
@@ -11,9 +9,8 @@ h1 {
   color: #ffffff;
 }
 
-#container {
+#header {
   background-image: url("../images/the-flatiron-building.png");
-  text-align: center;
 }
 
 h2 {
@@ -50,14 +47,14 @@ p,
   background-image: url("../images/the-flatiron-building.png");
 }
 
-.footer {
+#footer p {
   font-size: 11px;
   color: #ffffff;
   background-color: dimgray;
   text-align: left;
 }
 
-.footer a {
+#footer a {
   font-size: 18px;
   color: #ffffff;
 }
